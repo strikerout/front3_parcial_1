@@ -15,7 +15,6 @@ Este proyecto es el primer parcial del curso de Front End III. Consiste en una a
 ## Estilos
 
 - Se han aplicado estilos CSS a través de módulos (`CSS Modules`) para asegurar el encapsulamiento de los estilos y evitar conflictos en la aplicación.
-- Los formularios y la tarjeta están diseñados para ser responsivos, asegurando una buena presentación en diferentes tamaños de pantalla.
 
 ## Características
 
