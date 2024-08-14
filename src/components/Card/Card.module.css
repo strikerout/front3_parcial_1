@@ -1,0 +1,31 @@
+.card {
+    width: 100%;
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* Añade sombra para darle un poco de profundidad */
+}
+
+.card h2 {
+    margin-bottom: 10px;
+    color: #007bff;
+    font-size: 24px;
+}
+
+.card p {
+    margin-bottom: 15px;
+    font-size: 18px;
+    color: #333;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
